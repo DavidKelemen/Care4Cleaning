@@ -2,4 +2,7 @@
     <string name="app_name">CleaningCompany</string>
     <string name="company_name">Care4Cleaning</string>
     <string name="take_a_picture">Take a picture</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
